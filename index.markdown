@@ -21,6 +21,7 @@ My favorite quote is
 * [Photos on flickr](http://www.flickr.com/photos/masterq/)
 * [slideshare](http://www.slideshare.net/master_q)
 * [partake](http://partake.in/users/b9b38f3f-374f-4ec3-86ab-de232d08e450)
+* [justintv](http://www.justin.tv/kiwamu/videos)
 * [bookmarks](http://b.hatena.ne.jp/masterq/)
 * [gitorious](https://gitorious.org/~masterq)
 * [github](https://github.com/master-q)
@@ -30,6 +31,7 @@ My favorite quote is
 * [Carettah](http://carettah.masterq.net)
 * [netbsd-man-translate](http://netbsdman.masterq.net/)
 * [autosel_http_proxy gem](http://rubygems.org/gems/autosel_http_proxy)
+* [LPUX project blog](http://lpux.wordpress.com/)
 * life
 
 ## Debian Project
