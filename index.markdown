@@ -2,7 +2,7 @@
 title: Masterq profile page
 ---
 
-![](/images/yatta-ru.jpg)
+![](/images/kaketuke-masyo.jpg)
 
 # Kiwamu Okabe
 
