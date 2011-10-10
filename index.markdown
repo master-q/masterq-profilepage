@@ -9,6 +9,9 @@ title: Masterq profile page
 My name is Kiwamu Okabe. "岡部 究" in Japanese.
 I am a コピペ ("Copy and Paste" in English) Programmer.
 
+My favorite quote is
+[壁は卵のために](http://www.haaretz.com/hasen/spages/1064909.html).
+
 ## Personal links
 
 * [Blog (Japansese)](http://d.masterq.net/)
