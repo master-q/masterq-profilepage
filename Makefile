@@ -10,14 +10,9 @@ server: build
 	./hakyll server
 
 publish: build
-	rm -rf ../website/*
-	cp -pr _site/* ../website/
-	cp dot.htaccess.index_noauth ../website/.htaccess
-	cp dot.htaccess.index_noauth ../website/books/.htaccess
-	cp dot.htaccess.index_noauth ../website/css/.htaccess
-	cp dot.htaccess.index_noauth ../website/images/.htaccess
-	cp dot.htaccess              ../website/owner/c80/.htaccess 
-
+	ssh sakura.masterq.net rm -rf ~/vhosts/_site ~/vhosts/profilepage
+	scp -pr _site sakura.masterq.net:~/vhosts/
+	ssh sakura.masterq.net mv ~/vhosts/_site ~/vhosts/profilepage
 
 lint: hakyll.hs
 	hlint -c hakyll.hs
