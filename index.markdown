@@ -18,10 +18,11 @@ My favorite quote is
 * [Wiki](http://wiki.masterq.net)
 * [twitter: @master_q](https://twitter.com/master_q)
 * [facebook: kiwamu](http://www.facebook.com/kiwamu)
-* [Photos on flickr](http://www.flickr.com/photos/masterq/)
+* [flickr](http://www.flickr.com/photos/masterq/)
+* [movapic](http://movapic.com/masterq)
 * [slideshare](http://www.slideshare.net/master_q)
 * [partake](http://partake.in/users/b9b38f3f-374f-4ec3-86ab-de232d08e450)
-* [justintv](http://www.justin.tv/kiwamu/videos)
+* [justin.tv](http://www.justin.tv/kiwamu/videos)
 * [bookmarks](http://b.hatena.ne.jp/masterq/)
 * [gitorious](https://gitorious.org/~masterq)
 * [github](https://github.com/master-q)
@@ -40,10 +41,22 @@ I'm a Debian Maintainer.
 Also I maintain some packages.
 
 * [Quality Assurance Page](http://qa.debian.org/developer.php?login=kiwamu%40debian.or.jp)
+* [Bugs maintained by me](http://bugs.debian.org/cgi-bin/pkgreport.cgi?maint=kiwamu@debian.or.jp)
+* [Bugs submitted by me](http://bugs.debian.org/cgi-bin/pkgreport.cgi?submitter=kiwamu@debian.or.jp)
+
+Please read
+[The Debian Manifesto](http://www.debian.org/doc/manuals/project-history/ap-manifesto.html)
+(
+[日本語訳](http://www.debian.org/doc/manuals/project-history/ap-manifesto.ja.html)
+)
+, if you don't know Debian.
 
 ## Haskeller
 
 I'm learning Haskell programing language.
+And I create some
+[Hackages](http://hackage.haskell.org/packages/archive/pkg-list.html)
+.
 
 * [haskellers.com](http://www.haskellers.com/user/734)
 
