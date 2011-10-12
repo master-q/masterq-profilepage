@@ -29,7 +29,7 @@ My favorite quote is
 
 ## My Projects
 
-* [Carettah](http://carettah.masterq.net)
+* [Carettah](http://carettah.masterq.net) ([demo movie](http://vimeo.com/28350010))
 * [netbsd-man-translate](http://netbsdman.masterq.net/)
 * [autosel_http_proxy gem](http://rubygems.org/gems/autosel_http_proxy)
 * [LPUX project blog](http://lpux.wordpress.com/)
