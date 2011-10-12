@@ -60,6 +60,7 @@ And I create some
 .
 
 * [haskellers.com](http://www.haskellers.com/user/734)
+* [Book: Lambda Ka Musume](http://www.paraiso-lang.org/ikmsm/)
 
 ## E-mail address
 
