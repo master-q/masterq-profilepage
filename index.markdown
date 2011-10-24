@@ -30,7 +30,7 @@ My favorite quote is
 
 ## My Projects
 
-* [Carettah](http://carettah.masterq.net) ([demo movie](http://vimeo.com/28350010))
+* [Carettah](http://carettah.masterq.net) ([demo movie](http://vimeo.com/channels/carettah))
 * [netbsd-man-translate](http://netbsdman.masterq.net/)
 * [autosel_http_proxy gem](http://rubygems.org/gems/autosel_http_proxy)
 * [LPUX project blog](http://lpux.wordpress.com/)
@@ -60,7 +60,7 @@ And I create some
 .
 
 * [haskellers.com](http://www.haskellers.com/user/734)
-* [Book: Lambda Ka Musume](http://www.paraiso-lang.org/ikmsm/)
+* A member of [Book: Lambda Ka Musume](http://www.paraiso-lang.org/ikmsm/)
 
 ## E-mail address
 
@@ -72,3 +72,5 @@ uid                  Kiwamu Okabe <kiwamu at debian.or.jp>
 uid                  Kiwamu Okabe <kiwamu at gmail.com>
 sub   4096R/45979C03 2009-09-12
 ~~~
+
+[public key](/keys/F2CBCA06.asc)
