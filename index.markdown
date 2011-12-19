@@ -26,6 +26,7 @@ My favorite quote is
 * [bookmarks](http://b.hatena.ne.jp/masterq/)
 * [gitorious](https://gitorious.org/~masterq)
 * [github](https://github.com/master-q)
+* [bitbucket](https://bitbucket.org/masterq)
 * [theinterviews](http://theinterviews.jp/masterq)
 
 ## My Projects
