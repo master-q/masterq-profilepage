@@ -27,7 +27,6 @@ My favorite quote is
 * [gitorious](https://gitorious.org/~masterq)
 * [github](https://github.com/master-q)
 * [bitbucket](https://bitbucket.org/masterq)
-* [theinterviews](http://theinterviews.jp/masterq)
 
 ## My Projects
 
@@ -42,6 +41,7 @@ My favorite quote is
 I'm a Debian Maintainer.
 Also I maintain some packages.
 
+* [Debian Maintainer Dashboard](http://udd.debian.org/dmd.cgi?email=kiwamu%40debian.or.jp)
 * [Quality Assurance Page](http://qa.debian.org/developer.php?login=kiwamu%40debian.or.jp)
 * [Bugs maintained by me](http://bugs.debian.org/cgi-bin/pkgreport.cgi?maint=kiwamu@debian.or.jp)
 * [Bugs submitted by me](http://bugs.debian.org/cgi-bin/pkgreport.cgi?submitter=kiwamu@debian.or.jp)
@@ -62,6 +62,7 @@ And I create some
 
 * [haskellers.com](http://www.haskellers.com/user/734)
 * A member of [Book: Lambda Ka Musume](http://www.paraiso-lang.org/ikmsm/)
+* Maintainer of [HaskellJP wiki](http://wiki.haskell.jp/)
 
 ## E-mail address
 
