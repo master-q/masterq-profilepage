@@ -30,6 +30,7 @@ My favorite quote is
 
 ## My Projects
 
+* [Metasepi](http://metasepi.masterq.net)
 * [Carettah](http://carettah.masterq.net) ([demo movie](http://vimeo.com/channels/carettah))
 * [netbsd-man-translate](http://netbsdman.masterq.net/)
 * [autosel_http_proxy gem](http://rubygems.org/gems/autosel_http_proxy)
