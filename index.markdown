@@ -16,6 +16,7 @@ My favorite quote is
 
 * [Blog (Japansese)](http://d.masterq.net/)
 * [Wiki](http://wiki.masterq.net)
+* [Identi.ca: masterq](http://identi.ca/masterq)
 * [twitter: @master_q](https://twitter.com/master_q)
 * [facebook: kiwamu](http://www.facebook.com/kiwamu)
 * [flickr](http://www.flickr.com/photos/masterq/)
