@@ -12,23 +12,6 @@ I am a コピペ ("Copy and Paste" in English) Programmer.
 My favorite quote is
 [壁は卵のために](http://www.haaretz.com/hasen/spages/1064909.html).
 
-## Personal links
-
-* [Blog (Japansese)](http://d.masterq.net/)
-* [Wiki](http://wiki.masterq.net)
-* [Identi.ca: masterq](http://identi.ca/masterq)
-* [twitter: @master_q](https://twitter.com/master_q)
-* [facebook: kiwamu](http://www.facebook.com/kiwamu)
-* [flickr](http://www.flickr.com/photos/masterq/)
-* [movapic](http://movapic.com/masterq)
-* [slideshare](http://www.slideshare.net/master_q)
-* [partake](http://partake.in/users/b9b38f3f-374f-4ec3-86ab-de232d08e450)
-* [justin.tv](http://www.justin.tv/kiwamu/videos)
-* [bookmarks](http://b.hatena.ne.jp/masterq/)
-* [gitorious](https://gitorious.org/~masterq)
-* [github](https://github.com/master-q)
-* [bitbucket](https://bitbucket.org/masterq)
-
 ## My Projects
 
 * [Metasepi](http://metasepi.masterq.net)
@@ -65,6 +48,23 @@ And I create some
 * [haskellers.com](http://www.haskellers.com/user/734)
 * A member of [Book: Lambda Ka Musume](http://www.paraiso-lang.org/ikmsm/)
 * Maintainer of [HaskellJP wiki](http://wiki.haskell.jp/)
+
+## Personal links
+
+* [Blog (Japansese)](http://d.masterq.net/)
+* [Wiki](http://wiki.masterq.net)
+* [Identi.ca: masterq](http://identi.ca/masterq)
+* [twitter: @masterq_hentai](https://twitter.com/masterq_hentai)
+* [facebook: kiwamu](http://www.facebook.com/kiwamu)
+* [flickr](http://www.flickr.com/photos/masterq/)
+* [movapic](http://movapic.com/masterq)
+* [slideshare](http://www.slideshare.net/master_q)
+* [partake](http://partake.in/users/b9b38f3f-374f-4ec3-86ab-de232d08e450)
+* [justin.tv](http://www.justin.tv/kiwamu/videos)
+* [bookmarks](http://b.hatena.ne.jp/masterq/)
+* [gitorious](https://gitorious.org/~masterq)
+* [github](https://github.com/master-q)
+* [bitbucket](https://bitbucket.org/masterq)
 
 ## E-mail address
 
