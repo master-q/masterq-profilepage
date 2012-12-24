@@ -39,3 +39,22 @@ div.figure p.caption {
     text-align: center;
     font-style: italic;
 }
+
+h1 {
+    font-size: 200%;
+    text-align: left;
+    border-left: 10px solid #E61;
+    border-top: 10px solid #E61;
+    padding-left: 0.5em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+h2 {
+    font-size: 150%;
+    text-align: left;
+    border-left: 10px solid #E61;
+    padding-left: 0.5em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}

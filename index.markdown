@@ -14,9 +14,24 @@ My favorite quote is
 
 ## My Projects
 
-* [Metasepi](http://metasepi.masterq.net)
-* [Carettah](http://carettah.masterq.net) ([demo movie](http://vimeo.com/channels/carettah))
-* [netbsd-man-translate](http://netbsdman.masterq.net/)
+### [Metasepi](http://metasepi.masterq.net)
+
+Trying to create an open-source Unix-like operating system with type system.
+
+### [Carettah](http://carettah.masterq.net) ([demo movie](http://vimeo.com/channels/carettah))
+
+A presentation tool written with Haskell.
+Carettah make a new presentation with command 'carettah -n markdown.md'.
+And it's controled by keyboard or Wii Remote.
+It's a clone of [Rabbit](http://rabbit-shockers.org/).
+
+### [netbsd-man-translate](http://netbsdman.masterq.net/)
+
+Trying to create a translation environment for NetBSD man pages,
+and translate the man pages into Japanese.
+
+### Others
+
 * [autosel_http_proxy gem](http://rubygems.org/gems/autosel_http_proxy)
 * [LPUX project blog](http://lpux.wordpress.com/)
 * life
