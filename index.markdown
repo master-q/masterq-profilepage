@@ -32,7 +32,7 @@ and translate the man pages into Japanese.
 
 ### [Start printf](http://start_printf.masterq.net/)
 
-A education program to discover programming approach for operating system.
+An education program to discover programming approach for operating system.
 
 Members of the program read NetBSD source code on the scenario running printf function, and make a presentation.
 I will provide advice on method of source code reading.
