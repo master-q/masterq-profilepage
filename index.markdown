@@ -25,10 +25,17 @@ Carettah make a new presentation with command 'carettah -n markdown.md'.
 And it's controled by keyboard or Wii Remote.
 It's a clone of [Rabbit](http://rabbit-shockers.org/).
 
-### [netbsd-man-translate](http://netbsdman.masterq.net/)
+### [NetBSD man translate](http://netbsdman.masterq.net/)
 
 Trying to create a translation environment for NetBSD man pages,
 and translate the man pages into Japanese.
+
+### [Start printf](http://start_printf.masterq.net/)
+
+A education program to discover programming approach for operating system.
+
+Members of the program read NetBSD source code on the scenario running printf function,and make a presentation.
+I will provide advice on method of source code reading.
 
 ### Others
 
