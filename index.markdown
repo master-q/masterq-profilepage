@@ -18,6 +18,11 @@ My favorite quote is
 
 Trying to create an open-source Unix-like operating system with type system.
 
+### [Ajhc](http://ajhc.masterq.net)
+
+A fork of [jhc](http://repetae.net/computer/jhc/).
+And also a Haskell compiler customized for Metasepi.
+
 ### [Carettah](http://carettah.masterq.net) ([demo movie](http://vimeo.com/channels/carettah))
 
 A presentation tool written with Haskell.
@@ -63,10 +68,8 @@ Please read
 ## Haskeller
 
 I'm learning Haskell programing language.
-And I create some
-[Hackages](http://hackage.haskell.org/packages/archive/pkg-list.html)
-.
 
+* Author of [Some Haskell Packages](http://new-hackage.haskell.org/user/KiwamuOkabe)
 * [haskellers.com](http://www.haskellers.com/user/734)
 * A member of [Book: Lambda Ka Musume](http://www.paraiso-lang.org/ikmsm/)
 * Maintainer of [HaskellJP wiki](http://wiki.haskell.jp/)
