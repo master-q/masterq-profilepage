@@ -14,7 +14,7 @@ My favorite quote is
 
 ## My Projects
 
-### [Metasepi](http://metasepi.masterq.net)
+### [Metasepi](http://metasepi.org)
 
 Trying to create an open-source Unix-like operating system with type system.
 
