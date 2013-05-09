@@ -81,6 +81,7 @@ I'm learning Haskell programing language.
 * [Identi.ca: masterq](http://identi.ca/masterq)
 * [twitter: @masterq_hentai](https://twitter.com/masterq_hentai)
 * [facebook: kiwamu](http://www.facebook.com/kiwamu)
+* [vixi: masterq](http://vixi.us/?m=pc&a=page_f_home&target_c_member_id=67436)
 * [flickr](http://www.flickr.com/photos/masterq/)
 * [movapic](http://movapic.com/masterq)
 * [slideshare](http://www.slideshare.net/master_q)
