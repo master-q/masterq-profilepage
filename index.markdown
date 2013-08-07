@@ -97,9 +97,10 @@ I'm learning Haskell programing language.
 ~~~
 pub   4096R/F2CBCA06 2009-09-12
       Key fingerprint = DF60 3D3A 3C15 1B2C DF19  52F4 18DD 4D72 F2CB CA06
-uid                  Kiwamu Okabe <kiwamu at masterq.net>
-uid                  Kiwamu Okabe <kiwamu at debian.or.jp>
-uid                  Kiwamu Okabe <kiwamu at gmail.com>
+uid                  Kiwamu Okabe <kiwamu _at_ ocaml.jp>
+uid                  Kiwamu Okabe <kiwamu _at_ masterq.net>
+uid                  Kiwamu Okabe <kiwamu _at_ debian.or.jp>
+uid                  Kiwamu Okabe <kiwamu _at_ gmail.com>
 sub   4096R/45979C03 2009-09-12
 ~~~
 

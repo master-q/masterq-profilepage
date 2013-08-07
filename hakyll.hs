@@ -1,26 +1,20 @@
 {-# LANGUAGE OverloadedStrings #-}
-import Control.Arrow ((>>>))
-
 import Hakyll
 
 main :: IO ()
 main = hakyll $ do
-    _ <- match "images/*" $ do
-        route   idRoute
-        compile copyFileCompiler
+  match "css/*" $ do
+    route   idRoute
+    compile compressCssCompiler
 
-    _ <- match "css/*" $ do
-        route   idRoute
-        compile compressCssCompiler
+  match ("images/*" .||. "keys/*") $ do
+    route   idRoute
+    compile copyFileCompiler
 
-    _ <- match "templates/*" $ compile templateCompiler
+  match "templates/*" $ compile templateCompiler
 
-    _ <- match "keys/*" $ do
-        route   idRoute
-        compile copyFileCompiler
-
-    match (list ["index.markdown"]) $ do
-        route   $ setExtension "html"
-        compile $ pageCompiler
-            >>> applyTemplateCompiler "templates/default.html"
-            >>> relativizeUrlsCompiler
+  match "index.markdown" $ do
+    route   $ setExtension "html"
+    compile $ pandocCompiler
+      >>= loadAndApplyTemplate "templates/default.html" defaultContext
+      >>= relativizeUrls
