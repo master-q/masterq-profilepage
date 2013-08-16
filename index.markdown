@@ -77,11 +77,10 @@ I'm learning Haskell programing language.
 ## Personal links
 
 * [Blog (Japansese)](http://d.masterq.net/)
-* [Wiki](http://wiki.masterq.net)
 * [Identi.ca: masterq](http://identi.ca/masterq)
-* [twitter: @masterq_hentai](https://twitter.com/masterq_hentai)
-* [facebook: kiwamu](http://www.facebook.com/kiwamu)
-* [vixi: masterq](http://vixi.us/?m=pc&a=page_f_home&target_c_member_id=67436)
+* [twitter](https://twitter.com/masterq_teokure)
+* [facebook](http://www.facebook.com/kiwamu)
+* [vixi](http://vixi.us/?m=pc&a=page_f_home&target_c_member_id=67436)
 * [flickr](http://www.flickr.com/photos/masterq/)
 * [movapic](http://movapic.com/masterq)
 * [slideshare](http://www.slideshare.net/master_q)
@@ -91,6 +90,7 @@ I'm learning Haskell programing language.
 * [gitorious](https://gitorious.org/~masterq)
 * [github](https://github.com/master-q)
 * [bitbucket](https://bitbucket.org/masterq)
+* [LinkedIn](http://www.linkedin.com/in/masterq)
 
 ## E-mail address
 
