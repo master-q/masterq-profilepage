@@ -2,7 +2,9 @@
 title: Masterq profile page
 ---
 
-![](/images/kaketuke-masyo.jpg)
+<div class="figure">
+<img alt="my face" src="images/kaketuke-masyo.jpg" onmouseover="this.src='images/yatta-ru.jpg';" onmouseout="this.src='images/kaketuke-masyo.jpg'" />
+</div>
 
 # Kiwamu Okabe
 
