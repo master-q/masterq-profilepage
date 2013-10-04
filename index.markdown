@@ -18,7 +18,7 @@ My favorite quote is
 
 ### [Metasepi](http://metasepi.org)
 
-Trying to create an open-source Unix-like operating system with type system.
+Trying to create an open-source Unix-like operating system with strong type.
 
 ### [Ajhc](http://ajhc.masterq.net)
 
@@ -52,8 +52,7 @@ I will provide advice on method of source code reading.
 
 ## Debian Project
 
-I'm a Debian Maintainer.
-Also I maintain some packages.
+I'm a Debian Maintainer, also maintain some packages.
 
 * [Debian Maintainer Dashboard](http://udd.debian.org/dmd.cgi?email=kiwamu%40debian.or.jp)
 * [Quality Assurance Page](http://qa.debian.org/developer.php?login=kiwamu%40debian.or.jp)
@@ -71,26 +70,23 @@ Please read
 
 I'm learning Haskell programing language.
 
-* Author of [Some Haskell Packages](http://new-hackage.haskell.org/user/KiwamuOkabe)
+* Author of [Some Haskell Packages](http://hackage.haskell.org/user/KiwamuOkabe)
 * [haskellers.com](http://www.haskellers.com/user/734)
-* A member of [Book: Lambda Ka Musume](http://www.paraiso-lang.org/ikmsm/)
+* A contributing author of [Book: Lambda Ka Musume](http://www.paraiso-lang.org/ikmsm/)
 * Maintainer of [HaskellJP wiki](http://wiki.haskell.jp/)
 
 ## Personal links
 
 * [Blog (Japansese)](http://d.masterq.net/)
-* [Identi.ca: masterq](http://identi.ca/masterq)
 * [twitter](https://twitter.com/masterq_teokure)
 * [facebook](http://www.facebook.com/kiwamu)
-* [vixi](http://vixi.us/?m=pc&a=page_f_home&target_c_member_id=67436)
 * [flickr](http://www.flickr.com/photos/masterq/)
-* [movapic](http://movapic.com/masterq)
 * [slideshare](http://www.slideshare.net/master_q)
 * [partake](http://partake.in/users/b9b38f3f-374f-4ec3-86ab-de232d08e450)
 * [justin.tv](http://www.justin.tv/kiwamu/videos)
 * [bookmarks](http://b.hatena.ne.jp/masterq/)
-* [gitorious](https://gitorious.org/~masterq)
 * [github](https://github.com/master-q)
+* [gitorious](https://gitorious.org/~masterq)
 * [bitbucket](https://bitbucket.org/masterq)
 * [LinkedIn](http://www.linkedin.com/in/masterq)
 
