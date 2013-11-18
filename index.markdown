@@ -2,7 +2,7 @@
 title: Masterq profile page
 ---
 
-<div class="figure">
+<div class="figure_right">
 <img alt="my face" src="images/kaketuke-masyo.jpg" onmouseover="this.src='images/yatta-ru.jpg';" onmouseout="this.src='images/kaketuke-masyo.jpg'" />
 </div>
 
@@ -13,6 +13,10 @@ I am a コピペ ("Copy and Paste" in English) Programmer.
 
 My favorite quote is
 [壁は卵のために](http://www.haaretz.com/hasen/spages/1064909.html).
+
+## My icon
+
+![](/images/enjoy.jpg)
 
 ## My Projects
 
@@ -89,6 +93,10 @@ I'm learning Haskell programing language.
 * [gitorious](https://gitorious.org/~masterq)
 * [bitbucket](https://bitbucket.org/masterq)
 * [LinkedIn](http://www.linkedin.com/in/masterq)
+
+## Phone
+
+* Mobile: +81-90-3524-7064
 
 ## E-mail address
 
