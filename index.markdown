@@ -94,6 +94,12 @@ I'm learning Haskell programing language.
 * [bitbucket](https://bitbucket.org/masterq)
 * [LinkedIn](http://www.linkedin.com/in/masterq)
 
+## Bitcoin
+
+1B4HduyZYasG38m4A9N4pBqtrvUawn9kcr
+
+![](/images/1B4HduyZYasG38m4A9N4pBqtrvUawn9kcr.png)
+
 ## Phone
 
 * Mobile: +81-90-3524-7064
