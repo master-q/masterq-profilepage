@@ -24,6 +24,8 @@ My favorite quote is
 
 Trying to create an open-source Unix-like operating system with strong type.
 
+<script language="javascript" type="text/javascript" src="http://counting.hatelabo.jp/widget?count_id=91783" charset="utf-8"></script>
+
 ### [Ajhc](http://ajhc.masterq.net)
 
 A fork of [jhc](http://repetae.net/computer/jhc/).
