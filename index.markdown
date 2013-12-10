@@ -24,12 +24,16 @@ My favorite quote is
 
 Trying to create an open-source Unix-like operating system with strong type.
 
+![](/images/metasepi_logo_beta3.png)
+
 <script language="javascript" type="text/javascript" src="http://counting.hatelabo.jp/widget?count_id=91783" charset="utf-8"></script>
 
 ### [Ajhc](http://ajhc.masterq.net)
 
 A fork of [jhc](http://repetae.net/computer/jhc/).
 And also a Haskell compiler customized for Metasepi.
+
+![](/images/ajhc_logo_beta1.png)
 
 ### [Carettah](http://carettah.masterq.net) ([demo movie](http://vimeo.com/channels/carettah))
 
@@ -38,10 +42,14 @@ Carettah make a new presentation with command 'carettah -n markdown.md'.
 And it's controled by keyboard or Wii Remote.
 It's a clone of [Rabbit](http://rabbit-shockers.org/).
 
+![](/images/carettah.png)
+
 ### [NetBSD man translate](http://netbsdman.masterq.net/)
 
 Trying to create a translation environment for NetBSD man pages,
 and translate the man pages into Japanese.
+
+![](/images/NetBSD-smaller.png)
 
 ### [Start printf](http://start_printf.masterq.net/)
 
@@ -72,6 +80,8 @@ Please read
 )
 , if you don't know Debian.
 
+![](images/openlogo-nd-100.png)
+
 ## Haskeller
 
 I'm learning Haskell programing language.
@@ -80,6 +90,8 @@ I'm learning Haskell programing language.
 * [haskellers.com](http://www.haskellers.com/user/734)
 * A contributing author of [Book: Lambda Ka Musume](http://www.paraiso-lang.org/ikmsm/)
 * Maintainer of [HaskellJP wiki](http://wiki.haskell.jp/)
+
+![](images/HaskellLogoStyPreview-1.png)
 
 ## Personal links
 
