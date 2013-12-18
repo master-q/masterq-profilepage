@@ -7,7 +7,7 @@ build: hakyll
 	./hakyll build
 
 server: build
-	./hakyll server
+	./hakyll server -p 9000
 
 publish: build
 	ssh sakura.masterq.net rm -rf ~/vhosts/_site
