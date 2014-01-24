@@ -114,6 +114,10 @@ I'm learning Haskell programing language.
 
 ![](/images/1B4HduyZYasG38m4A9N4pBqtrvUawn9kcr.png)
 
+## Resume
+
+[https://github.com/master-q/masterq-docs/raw/master/resume/en/resume_kiwamuokabe.pdf](https://github.com/master-q/masterq-docs/raw/master/resume/en/resume_kiwamuokabe.pdf)
+
 ## Phone
 
 * Mobile: +81-90-3524-7064
