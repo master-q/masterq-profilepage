@@ -108,6 +108,8 @@ I'm learning Haskell programing language.
 * [bitbucket](https://bitbucket.org/masterq)
 * [LinkedIn](http://www.linkedin.com/in/masterq)
 
+<a href="http://graph.hatena.ne.jp/masterq/BW/"><img src="http://graph.hatena.ne.jp/masterq/graph?graphname=BW" width="260" height="180" alt="masterq's BW"></a>
+
 ## Bitcoin
 
 1B4HduyZYasG38m4A9N4pBqtrvUawn9kcr
