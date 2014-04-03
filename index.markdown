@@ -108,7 +108,7 @@ I'm learning Haskell programing language.
 * [bitbucket](https://bitbucket.org/masterq)
 * [LinkedIn](http://www.linkedin.com/in/masterq)
 
-<a href="http://graph.hatena.ne.jp/masterq/BW/"><img src="http://graph.hatena.ne.jp/masterq/graph?graphname=BW" width="260" height="180" alt="masterq's BW"></a>
+<a href="http://graph.hatena.ne.jp/detail?id=masterq&graphname=BW_night&id=masterq&graphname=BW_morning"><img src="http://graph.hatena.ne.jp/graph?id=masterq&graphname=BW_night&id=masterq&graphname=BW_morning" width="130" height="90" alt="masterq's BW"></a>
 
 ## Bitcoin
 
