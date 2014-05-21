@@ -110,12 +110,6 @@ I'm learning Haskell programing language.
 
 <a href="http://graph.hatena.ne.jp/detail?id=masterq&graphname=BW_night&id=masterq&graphname=BW_morning"><img src="http://graph.hatena.ne.jp/graph?id=masterq&graphname=BW_night&id=masterq&graphname=BW_morning" width="130" height="90" alt="masterq's BW"></a>
 
-## Bitcoin
-
-1B4HduyZYasG38m4A9N4pBqtrvUawn9kcr
-
-![](/images/1B4HduyZYasG38m4A9N4pBqtrvUawn9kcr.png)
-
 ## Resume
 
 [https://github.com/master-q/masterq-docs/raw/master/resume/en/resume_kiwamuokabe.pdf](https://github.com/master-q/masterq-docs/raw/master/resume/en/resume_kiwamuokabe.pdf)
