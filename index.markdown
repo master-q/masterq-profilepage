@@ -22,27 +22,33 @@ My favorite quote is
 
 ### [Metasepi](http://metasepi.org)
 
-Trying to create an open-source Unix-like operating system with strong type.
+Challenge to create an open-source Unix-like operating system designed with strong type such as ML or Haskell.
 
-![](/images/metasepi_logo_beta3.png)
+![](/images/metasepi_logo_v1_100x100.png)
 
 <script language="javascript" type="text/javascript" src="http://counting.hatelabo.jp/widget?count_id=91783" charset="utf-8"></script>
 
-### [Ajhc](http://ajhc.masterq.net)
+### [Ajhc](http://ajhc.metasepi.org)
 
-A fork of [jhc](http://repetae.net/computer/jhc/).
+Extend and add embedded features to [Jhc Haskell Compiler](http://repetae.net/computer/jhc/).
 And also a Haskell compiler customized for Metasepi.
 
 ![](/images/ajhc_logo_beta1.png)
 
-### [Carettah](http://carettah.masterq.net) ([demo movie](http://vimeo.com/channels/carettah))
+### [Japan ATS User Group (JATS-UG)](http://jats-ug.metasepi.org/)
 
-A presentation tool written with Haskell.
-Carettah make a new presentation with command 'carettah -n markdown.md'.
-And it's controled by keyboard or Wii Remote.
-It's a clone of [Rabbit](http://rabbit-shockers.org/).
+An user group for [ATS language](http://www.ats-lang.org/) promotion of utilization.
+Translating ATS documents into Japanese.
 
-![](/images/carettah.png)
+### [Functional IoT](http://fpiot.metasepi.org/)
+
+[The Internet of Things](http://en.wikipedia.org/wiki/Internet_of_Things)
+(or IoT for short) refers to uniquely identifiable objects and their virtual representations in an Internet-like structure.
+We need the language that is good for system programming with strong type, to develop the IoT device such like inexpensive and secure.
+
+The Functional IoT is a wrestling mat that strong typed languages fight on, to become the champion of system programming language.
+
+![](/images/fpiot_100x100.png)
 
 ### [NetBSD man translate](http://netbsdman.masterq.net/)
 
@@ -51,12 +57,14 @@ and translate the man pages into Japanese.
 
 ![](/images/NetBSD-smaller.png)
 
-### [Start printf](http://start_printf.masterq.net/)
+### [Carettah](http://carettah.masterq.net) ([demo movie](http://vimeo.com/channels/carettah))
 
-An education program to discover programming approach for operating system.
+A presentation tool written with Haskell.
+Carettah make a new presentation with command 'carettah -n markdown.md'.
+It's controled by keyboard or Wii Remote and a clone of [Rabbit](http://rabbit-shockers.org/).
+My slide created by the tool is found at [slideshare](http://www.slideshare.net/master_q/).
 
-Members of the program read NetBSD source code on the scenario running printf function, and make a presentation.
-I will provide advice on method of source code reading.
+![](/images/carettah.png)
 
 ### Others
 
@@ -75,16 +83,14 @@ I'm a Debian Maintainer, also maintain some packages.
 
 Please read
 [The Debian Manifesto](http://www.debian.org/doc/manuals/project-history/ap-manifesto.html)
-(
-[日本語訳](http://www.debian.org/doc/manuals/project-history/ap-manifesto.ja.html)
-)
+([日本語訳](http://www.debian.org/doc/manuals/project-history/ap-manifesto.ja.html))
 , if you don't know Debian.
 
 ![](images/openlogo-nd-100.png)
 
-## Haskeller
+## Functional Programmer
 
-I'm learning Haskell programing language.
+I'm learning [ATS programing language](http://www.ats-lang.org/), and also use Haskell language.
 
 * Author of [Some Haskell Packages](http://hackage.haskell.org/user/KiwamuOkabe)
 * [haskellers.com](http://www.haskellers.com/user/734)
