@@ -40,6 +40,8 @@ And also a Haskell compiler customized for Metasepi.
 An user group for [ATS language](http://www.ats-lang.org/) promotion of utilization.
 Translating ATS documents into Japanese.
 
+![](/images/jats-ug_logo_v1_100x100.png)
+
 ### [Functional IoT](http://fpiot.metasepi.org/)
 
 [The Internet of Things](http://en.wikipedia.org/wiki/Internet_of_Things)
