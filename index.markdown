@@ -99,6 +99,7 @@ I'm learning [ATS programing language](http://www.ats-lang.org/), and also use H
 * A contributing author of [Book: Lambda Ka Musume](http://www.paraiso-lang.org/ikmsm/)
 * Maintainer of [HaskellJP wiki](http://wiki.haskell.jp/)
 
+![](images/ats_logo.png)
 ![](images/HaskellLogoStyPreview-1.png)
 
 ## Personal links
