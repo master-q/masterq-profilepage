@@ -104,7 +104,7 @@ I'm learning [ATS programing language](http://www.ats-lang.org/), and also use H
 
 ## Personal links
 
-* [Blog (Japansese)](http://d.masterq.net/)
+* [Blog (Japansese)](https://kiwamu.wordpress.com/)
 * [facebook](http://www.facebook.com/kiwamu)
 * [flickr](http://www.flickr.com/photos/masterq/)
 * [slideshare](http://www.slideshare.net/master_q)
