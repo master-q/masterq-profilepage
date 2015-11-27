@@ -120,7 +120,8 @@ I'm learning [ATS programing language](http://www.ats-lang.org/), and also use H
 
 ## Resume
 
-[https://github.com/master-q/masterq-docs/raw/master/resume/en/resume_kiwamuokabe.pdf](https://github.com/master-q/masterq-docs/raw/master/resume/en/resume_kiwamuokabe.pdf)
+* [English version](https://github.com/master-q/masterq-docs/raw/master/resume/en/resume_kiwamuokabe.pdf)
+* [Japanese version](https://github.com/master-q/masterq-docs/raw/master/resume/ja/resume_kiwamuokabe_ja.pdf)
 
 ## Phone
 
