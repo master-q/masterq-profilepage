@@ -9,10 +9,16 @@ title: Masterq profile page
 # Kiwamu Okabe
 
 My name is Kiwamu Okabe. "岡部 究" in Japanese.
-I am a コピペ ("Copy and Paste" in English) Programmer.
-
 My favorite quote is
 [壁は卵のために](http://www.haaretz.com/hasen/spages/1064909.html).
+
+## Brief
+
+I launched my career on developing embedded devices at [Ricoh Company, Ltd](http://www.ricoh.com/), and also learned application design using functional language such like [Haskell](https://www.haskell.org/). I found [Metasepi](http://www.metasepi.org/) project what is trying to apply strong type to embedded programming. For my first challenging, I developed an embedded Haskell compiler named [Ajhc](http://ajhc.metasepi.org/), and published [some research papers](http://www.metasepi.org/papers.html).
+
+Today, I choose [ATS](http://www.ats-lang.org/) language as embedded functional language, and found [Japan ATS User Group](http://jats-ug.metasepi.org/) what holds Japanese translations about the language. And I'm [implementing these technology on tiny MCU](http://fpiot.metasepi.org/) such like [ARM Cortex-M series](https://en.wikipedia.org/wiki/ARM_Cortex-M) and [8bit AVR](https://en.wikipedia.org/wiki/Atmel_AVR) for practical use.
+
+Metasepi is very experimental and ambitious project, however I believe that it also introduces an by-product ``the technology to design real software with predictable manpower and safety'' regardless of embedded domain.
 
 ## My Icon
 
