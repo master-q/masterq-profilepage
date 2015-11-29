@@ -14,7 +14,7 @@ I am a コピペ ("Copy and Paste" in English) Programmer.
 My favorite quote is
 [壁は卵のために](http://www.haaretz.com/hasen/spages/1064909.html).
 
-## My icon
+## My Icon
 
 ![](/images/enjoy.jpg)
 
@@ -52,14 +52,7 @@ The Functional IoT is a wrestling mat that strong typed languages fight on, to b
 
 ![](/images/fpiot_100x100.png)
 
-### [NetBSD man translate](http://netbsdman.masterq.net/)
-
-Trying to create a translation environment for NetBSD man pages,
-and translate the man pages into Japanese.
-
-![](/images/NetBSD-smaller.png)
-
-### [Carettah](http://carettah.masterq.net) ([demo movie](http://vimeo.com/channels/carettah))
+### [Carettah](https://github.com/master-q/carettah) ([demo movie](http://vimeo.com/channels/carettah))
 
 A presentation tool written with Haskell.
 Carettah make a new presentation with command 'carettah -n markdown.md'.
@@ -70,7 +63,7 @@ My slide created by the tool is found at [slideshare](http://www.slideshare.net/
 
 ### Others
 
-* [autosel_http_proxy gem](http://rubygems.org/gems/autosel_http_proxy)
+* [Kick-R](https://github.com/centillion-tech/kick-r)
 * [LPUX project blog](http://lpux.wordpress.com/)
 * life
 
@@ -92,7 +85,7 @@ Please read
 
 ## Functional Programmer
 
-I'm learning [ATS programing language](http://www.ats-lang.org/), and also use Haskell language.
+I'm learning [ATS programing language](http://www.ats-lang.org/), and also use Haskell language for dayily use.
 
 * Author of [Some Haskell Packages](http://hackage.haskell.org/user/KiwamuOkabe)
 * [haskellers.com](http://www.haskellers.com/user/734)
@@ -108,11 +101,8 @@ I'm learning [ATS programing language](http://www.ats-lang.org/), and also use H
 * [facebook](http://www.facebook.com/kiwamu)
 * [flickr](http://www.flickr.com/photos/masterq/)
 * [slideshare](http://www.slideshare.net/master_q)
-* [partake](http://partake.in/users/b9b38f3f-374f-4ec3-86ab-de232d08e450)
-* [justin.tv](http://www.justin.tv/kiwamu/videos)
 * [bookmarks](http://b.hatena.ne.jp/masterq/)
 * [github](https://github.com/master-q)
-* [gitorious](https://gitorious.org/~masterq)
 * [bitbucket](https://bitbucket.org/masterq)
 * [LinkedIn](http://www.linkedin.com/in/masterq)
 
@@ -133,7 +123,6 @@ I'm learning [ATS programing language](http://www.ats-lang.org/), and also use H
 pub   4096R/F2CBCA06 2009-09-12
       Key fingerprint = DF60 3D3A 3C15 1B2C DF19  52F4 18DD 4D72 F2CB CA06
 uid                  Kiwamu Okabe <kiwamu _at_ ocaml.jp>
-uid                  Kiwamu Okabe <kiwamu _at_ masterq.net>
 uid                  Kiwamu Okabe <kiwamu _at_ debian.or.jp>
 uid                  Kiwamu Okabe <kiwamu _at_ gmail.com>
 sub   4096R/45979C03 2009-09-12
