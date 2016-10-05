@@ -104,13 +104,15 @@ I'm learning [ATS programing language](http://www.ats-lang.org/), and also use H
 ## Personal links
 
 * [Blog (Japansese)](https://kiwamu.wordpress.com/)
+* [LinkedIn](http://www.linkedin.com/in/masterq)
+* [bitbucket](https://bitbucket.org/masterq)
+* [bookmarks](http://b.hatena.ne.jp/masterq/)
 * [facebook](http://www.facebook.com/kiwamu)
 * [flickr](http://www.flickr.com/photos/masterq/)
-* [slideshare](http://www.slideshare.net/master_q)
-* [bookmarks](http://b.hatena.ne.jp/masterq/)
 * [github](https://github.com/master-q)
-* [bitbucket](https://bitbucket.org/masterq)
-* [LinkedIn](http://www.linkedin.com/in/masterq)
+* [joysound](https://www.joysound.com/web/search/movie?keyword=masterq&searchType=11&match=1)
+* [slideshare](http://www.slideshare.net/master_q)
+* [youtube](https://www.youtube.com/channel/UCP7HP3b-Nt97jTqkGdvqXhA)
 
 <a href="http://graph.hatena.ne.jp/detail?id=masterq&graphname=BW_night&id=masterq&graphname=BW_morning"><img src="http://graph.hatena.ne.jp/graph?id=masterq&graphname=BW_night&id=masterq&graphname=BW_morning" width="130" height="90" alt="masterq's BW"></a>
 
