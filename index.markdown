@@ -107,6 +107,7 @@ I'm learning [ATS programing language](http://www.ats-lang.org/), and also use H
 * [LinkedIn](http://www.linkedin.com/in/masterq)
 * [bitbucket](https://bitbucket.org/masterq)
 * [bookmarks](http://b.hatena.ne.jp/masterq/)
+* [bookmeter](http://bookmeter.com/u/35070)
 * [facebook](http://www.facebook.com/kiwamu)
 * [flickr](http://www.flickr.com/photos/masterq/)
 * [github](https://github.com/master-q)
