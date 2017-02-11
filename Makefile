@@ -7,7 +7,7 @@ build: hakyll
 	./hakyll build
 
 server: build
-	./hakyll preview -p 9000
+	./hakyll preview
 
 publish: build
 	cp -pr _site/* ~/doc/master-q.github.io/

@@ -77,7 +77,7 @@ My slide created by the tool is found at [slideshare](http://www.slideshare.net/
 
 I'm a Debian Maintainer, also maintain some packages.
 
-* [Debian Maintainer Dashboard](http://udd.debian.org/dmd.cgi?email=kiwamu%40debian.or.jp)
+* [Debian Maintainer Dashboard](https://udd.debian.org/dmd/?email1=kiwamu%40debian.or.jp&email2=&email3=&packages=&ignpackages=&format=html#todo)
 * [Quality Assurance Page](http://qa.debian.org/developer.php?login=kiwamu%40debian.or.jp)
 * [Bugs maintained by me](http://bugs.debian.org/cgi-bin/pkgreport.cgi?maint=kiwamu@debian.or.jp)
 * [Bugs submitted by me](http://bugs.debian.org/cgi-bin/pkgreport.cgi?submitter=kiwamu@debian.or.jp)
