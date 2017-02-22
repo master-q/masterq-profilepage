@@ -1,0 +1,80 @@
+==================================================================
+https://keybase.io/masterq
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://masterq.metasepi-design.com
+  * I am masterq (https://keybase.io/masterq) on keybase.
+  * I have a public key with fingerprint DF60 3D3A 3C15 1B2C DF19  52F4 18DD 4D72 F2CB CA06
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010145340470c64a54b7413983c21511c7ebe4442eeba26d61976e7cb26b658043630a",
+            "fingerprint": "df603d3a3c151b2cdf1952f418dd4d72f2cbca06",
+            "host": "keybase.io",
+            "key_id": "18dd4d72f2cbca06",
+            "kid": "010145340470c64a54b7413983c21511c7ebe4442eeba26d61976e7cb26b658043630a",
+            "uid": "6f9f1fd097e2673207265dac0c51a900",
+            "username": "masterq"
+        },
+        "revoke": {
+            "sig_ids": [
+                "f6388eb69945db2513986ddcbea76d323cedd37addabd9e7685a2381760bf96d0f"
+            ]
+        },
+        "service": {
+            "hostname": "masterq.metasepi-design.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1487754695,
+    "expire_in": 157680000,
+    "prev": "8003a564cd69523b51fc294ee26e5bf3f59da8d02de77e7da1529a29208465ef",
+    "seqno": 17,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtkn1QFGUcx48DHTQ1cQRh0pQ1VOCEfd/bQ0ptTMpEVCSKl2t3n2dhebk79pYT
+ZQ7fCCEjGDUzZQQMrSE0xywGGwFzUoMuLCwHLJlMKE3FgROSrqFnmfyjmf5s/9l5
+nvn+Pr/P83ue6un+hkC/0J/WqkOdHZP9Om+LhtQTm74pxkQ72IJZirFcOPGDeQA6
+NWuuAjALhhM4QTMUjdMcLrG0wNAiRxMUb6YkkmAIQuKgCGmaJiEUBZIFLMFzLOQk
+kWRFljHjNMVSuICZMFmxZUHVoSo2DWGBzOIUoARKQhCRlIBM8Awp04QZABpwpExK
+oiTgLCrMtjv1CiQnCk4Yo9jRHlpYJ/T+I/8/exdO4FiZlwkZ4DwHSZajSJwjWQYI
+Ei4xhMDjuB50QtUm5EOUzhecGlQLMLcJU6HLngv1sTqVLOTsxCxpmMxSZjMUWZ6n
+GSCSjO7FAiCJUOBYQJGUBAGgOAEAQQQ85FgzI5CUmeBYXJR5FuAyloHYqKFLkSbg
++pD+3TwmH2poXg5lKbpNJcsWI9nzkaVDtWt2yZ6HgtntRk1zWHRLbYtDL90MRes/
+UKuo2AC6MlTigqpTsdswC4GSkqboXQjazHEMzfKMCYNFDkWFVkVPMMgVR5/eCLoQ
+Eq0ogWFpCaAsSYkMIUskT0M0RsiIMiUzPBDMACcB5DjIAYFgSF4geRI30ywDZUw/
+ZoHNjtgc8hSyEFM/jqAVqhBzT60wUgEGv0DDvJDwgL7X4y3Lgp8y9YVt8D5+5pOM
++hs3TJ0y8/FOYeST4+kZWvnDxG+1mb7xK6unDaYuWu5tbj35ppxcPvj1uU7y9H1j
+f2Lpo6/41jtJe66kxa/+oH8SFRx+dLN7UnyYPLg1anH34doF0l/vFoOyjT3dZ62D
+KT888D2o+k5bXj/WMVmsM474tdz0NbTOn+cd3bsgPa9+3fi2X480lYkD7qgbpqJh
+88imAyEtM2Xf2jbPjWcTSt8rTtqe+YUvqH1nb2BtbOKjKb/bL1wfS/iI9Hul/KTq
+Odgest7j79wLKGvd/Ys/z635sHB9xIMVXVFFQUMNlb/s9x5/v32NdLwpuLQieXW5
+/z3T9ea3YsPD06Iif5tREXTpSNuf87xl1ypfC5HVxpKbmbvu1ngqe6Ndu3siPdXD
+tjq4s3tDt3dRxB+tW6tv+deOXn16V5urt+lUzkoxMsWX31UzMqOy5Udv5cK4kvUR
+JefP4yYD2fUO3J807WjuHPehOzuGd5TmvJAT1zmLXNxzYsy45ljLtpSBoQtxnza9
+WFwX1hzLL4v+8vD88tGlHbfHlwT4t9cfOrMh/PvG2QVV7MU5oaGz7z7nk9d98tnC
+ostPNPSteT6o5PN9SwJODw6dS812VE1fukdelf7qvRj6bObupIEDk595I8G9qu/l
+7LMFwS+Fvb3RfTnu4/vVbWpPaMa1hw2zjm1OPhidfCZte/CtxmZg678U1rDCkDLX
+c/XK2lMpuyyOafuaVkb/DQ==
+=Y481
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/masterq
+
+==================================================================
+
