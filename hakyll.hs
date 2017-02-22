@@ -7,7 +7,7 @@ main = hakyll $ do
     route   idRoute
     compile compressCssCompiler
 
-  match ("images/*" .||. "keys/*") $ do
+  match ("images/*" .||. "keys/*" .||. "keybase.txt") $ do
     route   idRoute
     compile copyFileCompiler
 
