@@ -115,6 +115,8 @@ I'm learning [ATS programing language](http://www.ats-lang.org/), and also use H
 * [joysound](https://www.joysound.com/web/search/movie?keyword=masterq&searchType=11&match=1)
 * [keybase](https://keybase.io/masterq)
 * [slideshare](http://www.slideshare.net/master_q)
+* [twitonomy](http://www.twitonomy.com/profile.php?sn=masterq_mogumog)
+* [twitter](https://twitter.com/masterq_mogumog)
 * [youtube](https://www.youtube.com/channel/UCP7HP3b-Nt97jTqkGdvqXhA)
 
 <a href="http://graph.hatena.ne.jp/detail?id=masterq&graphname=BW_night&id=masterq&graphname=BW_morning"><img src="http://graph.hatena.ne.jp/graph?id=masterq&graphname=BW_night&id=masterq&graphname=BW_morning" width="130" height="90" alt="masterq's BW"></a>
