@@ -9,8 +9,8 @@ title: Masterq profile page
 # Kiwamu Okabe
 
 My name is Kiwamu Okabe. "岡部 究" in Japanese.
-My favorite quote is
-[壁は卵のために](http://www.haaretz.com/hasen/spages/1064909.html).
+My favorite quotes are
+"[壁は卵のために](http://www.haaretz.com/hasen/spages/1064909.html)" and [the others](https://github.com/master-q/masterq-docs/tree/master/quotes).
 
 ## Brief
 
