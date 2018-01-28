@@ -114,6 +114,7 @@ I'm learning [ATS programing language](http://www.ats-lang.org/), and also use H
 * [instagram](https://www.instagram.com/masterq/)
 * [joysound](https://www.joysound.com/web/search/movie?keyword=masterq&searchType=11&match=1)
 * [keybase](https://keybase.io/masterq)
+* [mastodon](https://pawoo.net/@masterq)
 * [slideshare](http://www.slideshare.net/master_q)
 * [twilog](http://twilog.org/masterq_mogumog/stats)
 * [twitonomy](http://www.twitonomy.com/profile.php?sn=masterq_mogumog)
