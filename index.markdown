@@ -20,6 +20,10 @@ Today, I choose [ATS](http://www.ats-lang.org/) language as embedded functional 
 
 Metasepi is very experimental and ambitious project, however I believe that it also introduces an by-product ``the technology to design real software with predictable manpower and safety'' regardless of embedded domain.
 
+## Donate
+
+<a href="https://www.patreon.com/bePatron?u=14024680" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
 ## My Icon
 
 ![](/images/enjoy.jpg)
