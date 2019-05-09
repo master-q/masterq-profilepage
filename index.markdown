@@ -120,6 +120,7 @@ I'm learning [ATS programing language](http://www.ats-lang.org/), and also use H
 * [keybase](https://keybase.io/masterq)
 * [mastodon](https://pawoo.net/@masterq)
 * [questionbox](https://peing.net/en/masterq)
+* [reddit](https://www.reddit.com/user/kiwamu)
 * [slideshare](http://www.slideshare.net/master_q)
 * [twilog](http://twilog.org/masterq_mogumog/stats)
 * [twitonomy](http://www.twitonomy.com/profile.php?sn=masterq_mogumog)
