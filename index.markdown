@@ -127,10 +127,6 @@ I'm learning [ATS programing language](http://www.ats-lang.org/), and also use H
 * [twitter](https://twitter.com/masterq_mogumog)
 * [youtube](https://www.youtube.com/channel/UCP7HP3b-Nt97jTqkGdvqXhA)
 
-<a href="http://graph.hatena.ne.jp/detail?id=masterq&graphname=BW_night&id=masterq&graphname=BW_morning"><img src="http://graph.hatena.ne.jp/graph?id=masterq&graphname=BW_night&id=masterq&graphname=BW_morning" width="130" height="90" alt="masterq's BW"></a>
-<a href="http://graph.hatena.ne.jp/detail?id=masterq&graphname=Blood_pressure_high&id=masterq&graphname=Blood_pressure_low"><img src="http://graph.hatena.ne.jp/graph?id=masterq&graphname=Blood_pressure_high&id=masterq&graphname=Blood_pressure_low" width="130" height="90" alt="masterq's blood pressure"></a>
-<a href="http://graph.hatena.ne.jp/masterq/BDI/"><img src="http://graph.hatena.ne.jp/masterq/graph?graphname=BDI" width="130" height="90" alt="masterq's BDI"></a>
-
 ## Resume
 
 * [English version](https://github.com/master-q/masterq-docs/blob/master/resume/en/resume_kiwamuokabe.pdf)
