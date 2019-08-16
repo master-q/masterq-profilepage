@@ -108,23 +108,18 @@ I'm learning [ATS programing language](http://www.ats-lang.org/), and also use H
 ## Personal links
 
 * [Blog (Japansese)](https://kiwamu.wordpress.com/)
+* [GitHub](https://github.com/master-q)
 * [LinkedIn](http://www.linkedin.com/in/masterq)
 * [bitbucket](https://bitbucket.org/masterq)
 * [bookmarks](http://b.hatena.ne.jp/masterq/)
 * [bookmeter](http://bookmeter.com/u/35070)
 * [facebook](http://www.facebook.com/kiwamu)
 * [flickr](http://www.flickr.com/photos/masterq/)
-* [github](https://github.com/master-q)
 * [instagram](https://www.instagram.com/masterq/)
-* [joysound](https://www.joysound.com/web/search/movie?keyword=masterq&searchType=11&match=1)
 * [keybase](https://keybase.io/masterq)
 * [mastodon](https://pawoo.net/@masterq)
-* [questionbox](https://peing.net/en/masterq)
 * [reddit](https://www.reddit.com/user/kiwamu)
 * [slideshare](http://www.slideshare.net/master_q)
-* [twilog](http://twilog.org/masterq_mogumog/stats)
-* [twitonomy](http://www.twitonomy.com/profile.php?sn=masterq_mogumog)
-* [twitter](https://twitter.com/masterq_mogumog)
 * [youtube](https://www.youtube.com/channel/UCP7HP3b-Nt97jTqkGdvqXhA)
 
 ## Resume
@@ -141,7 +136,6 @@ I'm learning [ATS programing language](http://www.ats-lang.org/), and also use H
 ~~~
 pub   4096R/F2CBCA06 2009-09-12
       Key fingerprint = DF60 3D3A 3C15 1B2C DF19  52F4 18DD 4D72 F2CB CA06
-uid                  Kiwamu Okabe <kiwamu _at_ ocaml.jp>
 uid                  Kiwamu Okabe <kiwamu _at_ debian.or.jp>
 uid                  Kiwamu Okabe <kiwamu _at_ gmail.com>
 sub   4096R/45979C03 2009-09-12
