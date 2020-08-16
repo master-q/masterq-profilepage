@@ -1,5 +1,6 @@
 /_cache
 /_site
-/hakyll
 *.hi
 *.o
+.stack-work/
+stack.yaml.lock

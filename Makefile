@@ -1,13 +1,11 @@
 all: build
 
-hakyll: hakyll.hs
-	ghc --make -Wall hakyll.hs -o hakyll
-
-build: hakyll
-	./hakyll build
+build:
+	stack build
+	stack run masterq-prof build
 
 server: build
-	./hakyll preview
+	stack run masterq-prof server
 
 publish: build
 	cp -pr _site/* ~/doc/master-q.github.io/
@@ -16,9 +14,9 @@ lint: hakyll.hs
 	hlint -c hakyll.hs
 
 clean:
-	-./hakyll clean
-	rm -rf hakyll
+	stack run ikmsm-web clean
+	stack clean
 	rm -rf *.hi *.o
-	rm -rf *~
+	rm -f `find . -name "*~"`
 
-.PHONY: lint clean
+.PHONY: build lint clean
