@@ -108,6 +108,7 @@ I'm learning [ATS programing language](http://www.ats-lang.org/), and also use H
 ## Personal links
 
 * [Blog (Japansese)](https://kiwamu.wordpress.com/)
+* [Cooking blog (Japansese)](https://dietlifejp.wordpress.com/)
 * [GitHub](https://github.com/master-q)
 * [LinkedIn](http://www.linkedin.com/in/masterq)
 * [bitbucket](https://bitbucket.org/masterq)
