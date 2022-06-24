@@ -125,8 +125,8 @@ I'm learning [ATS programing language](http://www.ats-lang.org/), and also use H
 
 ## Resume
 
-* [English version](https://github.com/master-q/masterq-docs/blob/master/resume/en/resume_kiwamuokabe.pdf)
-* [Japanese version](https://github.com/master-q/masterq-docs/blob/master/resume/ja/resume_kiwamuokabe_ja.pdf)
+* [English version](https://raw.githubusercontent.com/master-q/masterq-docs/master/resume/en/resume_kiwamuokabe.pdf)
+* [Japanese version](https://raw.githubusercontent.com/master-q/masterq-docs/master/resume/ja/resume_kiwamuokabe_ja.pdf)
 
 ## Phone
 
