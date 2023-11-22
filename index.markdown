@@ -14,9 +14,9 @@ My favorite quotes are
 
 ## Brief
 
-I launched my career on developing embedded devices at [Ricoh Company, Ltd](http://www.ricoh.com/), and also learned application design using functional language such like [Haskell](https://www.haskell.org/). I found [Metasepi](http://www.metasepi.org/) project what is trying to apply strong type to embedded programming. For my first challenging, I developed an embedded Haskell compiler named [Ajhc](http://ajhc.metasepi.org/), and published [some research papers](http://www.metasepi.org/papers.html).
+I launched my career on developing embedded devices at [Ricoh Company, Ltd](http://www.ricoh.com/), and also learned application design using functional language such like [Haskell](https://www.haskell.org/). I found [Metasepi](http://www.metasepi.org/) project what is trying to apply strong type to embedded programming. For my first challenging, I developed an embedded Haskell compiler named [Ajhc](http://ajhc.metasepi.org/), and published [some research papers](http://www.metasepi.org/papers.html). Secondly, I chose [ATS](http://www.ats-lang.org/) language as embedded functional language, and found [Japan ATS User Group](http://jats-ug.metasepi.org/) what holds Japanese translations about the language. Thirdly, I chose [VeriFast](https://github.com/verifast/verifast) verification tool, and translated [the documentation into Japanese](https://github.com/jverifast-ug/translate/blob/master/Manual/Tutorial/Tutorial.md).
 
-Today, I choose [ATS](http://www.ats-lang.org/) language as embedded functional language, and found [Japan ATS User Group](http://jats-ug.metasepi.org/) what holds Japanese translations about the language. And I'm [implementing these technology on tiny MCU](http://fpiot.metasepi.org/) such like [ARM Cortex-M series](https://en.wikipedia.org/wiki/ARM_Cortex-M) and [8bit AVR](https://en.wikipedia.org/wiki/Atmel_AVR) for practical use.
+Today, I choose [Rust language](https://www.rust-lang.org/) to design embedded application running on [STM32 microcontroller](https://en.wikipedia.org/wiki/STM32).
 
 Metasepi is very experimental and ambitious project, however I believe that it also introduces an by-product ``the technology to design real software with predictable manpower and safety'' regardless of embedded domain.
 
