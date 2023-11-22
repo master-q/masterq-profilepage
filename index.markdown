@@ -9,8 +9,6 @@ title: Masterq profile page
 # Kiwamu Okabe
 
 My name is Kiwamu Okabe. "岡部 究" in Japanese.
-My favorite quotes are
-"[壁は卵のために](http://www.haaretz.com/hasen/spages/1064909.html)" and [the others](https://github.com/master-q/masterq-docs/tree/master/quotes).
 
 ## Brief
 
@@ -24,9 +22,10 @@ Metasepi is very experimental and ambitious project, however I believe that it a
 
 <a href="https://www.patreon.com/bePatron?u=14024680" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-## My Icon
+## Resume
 
-![](/images/enjoy.jpg)
+* [English version](https://raw.githubusercontent.com/master-q/masterq-docs/master/resume/en/resume_kiwamuokabe.pdf)
+* [Japanese version](https://raw.githubusercontent.com/master-q/masterq-docs/master/resume/ja/resume_kiwamuokabe_ja.pdf)
 
 ## My Projects
 
@@ -106,11 +105,6 @@ I'm learning [ATS programing language](http://www.ats-lang.org/), and also use H
 * [reddit](https://www.reddit.com/user/kiwamu)
 * [slideshare](http://www.slideshare.net/master_q)
 * [youtube](https://www.youtube.com/channel/UCP7HP3b-Nt97jTqkGdvqXhA)
-
-## Resume
-
-* [English version](https://raw.githubusercontent.com/master-q/masterq-docs/master/resume/en/resume_kiwamuokabe.pdf)
-* [Japanese version](https://raw.githubusercontent.com/master-q/masterq-docs/master/resume/ja/resume_kiwamuokabe_ja.pdf)
 
 ## Phone
 
