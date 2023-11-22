@@ -52,16 +52,6 @@ Translating ATS documents into Japanese.
 
 ![](/images/jats-ug_logo_v1_100x100.png)
 
-### [Functional IoT](http://fpiot.metasepi.org/)
-
-[The Internet of Things](http://en.wikipedia.org/wiki/Internet_of_Things)
-(or IoT for short) refers to uniquely identifiable objects and their virtual representations in an Internet-like structure.
-We need the language that is good for system programming with strong type, to develop the IoT device such like inexpensive and secure.
-
-The Functional IoT is a wrestling mat that strong typed languages fight on, to become the champion of system programming language.
-
-![](/images/fpiot_100x100.png)
-
 ### [Carettah](https://github.com/master-q/carettah) ([demo movie](http://vimeo.com/channels/carettah))
 
 A presentation tool written with Haskell.
@@ -70,12 +60,6 @@ It's controled by keyboard or Wii Remote and a clone of [Rabbit](http://rabbit-s
 My slide created by the tool is found at [slideshare](http://www.slideshare.net/master_q/).
 
 ![](/images/carettah.png)
-
-### Others
-
-* [Kick-R](https://github.com/centillion-tech/kick-r)
-* [LPUX project blog](http://lpux.wordpress.com/)
-* life
 
 ## Debian Project
 
